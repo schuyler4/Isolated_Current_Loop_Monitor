@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Isolated_Current_Loop_Monitor")(type "KiCad")(uri "${KIPRJMOD}/Isolated_Current_Loop_Monitor.kicad_sym")(options "")(descr ""))
+  (lib (name "PDSE1-S12-S5-M")(type "KiCad")(uri "/home/schuyler/Downloads/PDSE-S12-S5-M/PDSE1-S12-S5-M.kicad_sym")(options "")(descr ""))
+)

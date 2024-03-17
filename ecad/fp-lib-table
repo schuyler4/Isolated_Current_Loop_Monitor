@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Isolation_Current_Loop_Monitor")(type "KiCad")(uri "${KIPRJMOD}/Isolation_Current_Loop_Monitor.pretty")(options "")(descr ""))
+)
